@@ -1,5 +1,5 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS 1
-#include <iostream>  
+#include <iostream>
 
 void main() {
 
@@ -12,6 +12,8 @@ void main() {
         i++;
     }
     printf("size = %d", i);
+
+    cout << Hello;
 }
 
 
